@@ -1,0 +1,43 @@
+h1 {
+    text-align: center;
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 800;
+    text-decoration: underline;
+    text-underline-position: below;
+    font-size: 45px;
+    text-transform: uppercase;
+}
+a {
+    color: red;
+    font-size: 20px;
+}
+h4 {
+    color: #0080ff;
+    font-size: 25px;
+
+}
+ul,OL {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: small;
+    font-size: 16px;
+}
+.paragraph {
+    font-weight: 100;
+    font-size: 19px;
+
+}
+img {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+} 
+
+.txt {
+    line-height: 1.5;
+}
+#hello {
+    font-weight: bold;
+    line-height: 1.9;
+
+}
