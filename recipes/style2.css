@@ -1,20 +1,28 @@
+body {
+    background-color: #eaeaea;
+}
 h1 {
     text-align: center;
     color: black;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: 800;
-    text-decoration: underline;
+    text-decoration:underline solid rgb(0, 174, 255) ;
     text-underline-position: below;
     font-size: 45px;
     text-transform: uppercase;
 }
 a {
-    color: red;
+    color: rgb(255, 255, 255);
     font-size: 20px;
+    background-color: brown;
+    padding-inline: 7px;
 }
 h4 {
     color: #0080ff;
     font-size: 25px;
+    margin: 20px 30px;
+    display: block;
+
 
 }
 ul,OL {
@@ -22,11 +30,8 @@ ul,OL {
     font-size: small;
     font-size: 16px;
 }
-.paragraph {
-    font-weight: 100;
-    font-size: 19px;
 
-}
+
 img {
     display: block;
   margin-left: auto;
@@ -35,9 +40,21 @@ img {
 
 .txt {
     line-height: 1.5;
+    padding: 25px 50px;
+    font-size: 20px;
 }
 #hello {
     font-weight: bold;
     line-height: 1.9;
 
+}
+div {
+    background-color: #ffffff;
+    margin: 25px 18px;
+    display:block;
+    padding: 10px;
+
+}
+#TXE {
+    
 }
